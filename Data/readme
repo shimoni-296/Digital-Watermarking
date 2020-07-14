@@ -1,0 +1,4 @@
+Image1.dcm - Input medical image used for testing purpose.
+Information.txt - Sample medical information to be inserted as a watermark.
+Logo.png - Sample logo file to be inserted as a watermark.
+Output Parameters.txt - Output file containing Mean Square Error, Signal to Noise Ration and Peak Signal to Noise Ratio for the above input image.
