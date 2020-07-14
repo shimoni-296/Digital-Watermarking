@@ -1,0 +1,21 @@
+
+
+
+--------------- Output Values Calculated -----------------
+
+
+ Mean Square Error (MSR) = 0.001252
+
+ Signal to Noise Ratio (SNR) = 86.166026
+
+ Peak Signal to Noise Ratio (PSNR) = 101.064552
+
+
+ --------Output Values after attacking the watermarked image-----------
+
+
+ Mean Square Error (MSR) = 66433.073442
+
+ Signal to Noise Ratio (SNR) = 8.918831
+
+ Peak Signal to Noise Ratio (PSNR) = 23.817356

@@ -1,0 +1,18 @@
+PatientInfo|Value
+Name|John
+ID|BE010
+DoB|12/01/1951
+Age|66
+Gender|M
+ImageInfo|Value
+Part|Lung
+Manufacturer|Philips
+Date|12/01/2017
+Diagnosis|Value
+Description|Sarcoidosis, size 2cm*2cm
+History|1cm*1cm(12/01/2016)
+PhysicianInfo|Value
+Name|Emma
+ID|JHH01
+Gender|F
+Hospital|Johns Hopkins Hospital
